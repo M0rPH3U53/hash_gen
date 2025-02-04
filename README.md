@@ -9,7 +9,7 @@ SHA-512
 
 SHA3-224  
 SHA3-256  
-SHA-3-512
+SHA3-512
 
 Blake2b  
 Blake2s  
