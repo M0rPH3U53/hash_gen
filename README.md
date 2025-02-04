@@ -1,6 +1,6 @@
 # Generateur de HASH
 
-Hash
+Hash supporter
 
 <span style="color: #dddddd;">💀</span>MD5  
 <span style="color: #dddddd;">💀</span>SHA-1  
