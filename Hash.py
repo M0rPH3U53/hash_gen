@@ -1,4 +1,4 @@
-#!/home/kali/Desktop/scripts/venv/bin/python
+#!/usr/bin/python3
 
 import time
 from hashlib import *
@@ -16,7 +16,8 @@ print(
 | $$  \ $$| $$_____/| $$  | $$| $$  | $$ /$$__  $$ \____  $$| $$  | $$
 |  $$$$$$/|  $$$$$$$| $$  | $$| $$  | $$|  $$$$$$$ /$$$$$$$/| $$  | $$
  \______/  \_______/|__/  |__/|__/  |__/ \_______/|_______/ |__/  |__/
-                                                                      
+
+by M0rPH3U5                                                              
 """
 )
 txt = input("Entrez votre texte: ")
