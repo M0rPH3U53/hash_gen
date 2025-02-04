@@ -17,3 +17,10 @@ Blake3
 
 SHAKE-128  
 SHAKE-256
+
+Dependance
+
+```
+┌─[parrot@parrot]─[~]
+└──╼ $ pip install blake3
+```
