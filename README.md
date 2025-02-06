@@ -26,7 +26,7 @@ Hash supporter
 ┌─[parrot@parrot]─[~]
 └──╼ $ pip install blake3
 ```
-# 👁️ Prévisualisation👁
+# 👁️ Prévisualisation
 
 ```
   /$$$$$$                      /$$   /$$                     /$$      
