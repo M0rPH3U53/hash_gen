@@ -20,7 +20,7 @@ Hash supporter
 <span style="color: #dddddd;">💪</span>SHAKE-128  
 <span style="color: #dddddd;">💪</span>SHAKE-256
 
-Dependance
+# ⚙️ Dépendance
 
 ```
 ┌─[parrot@parrot]─[~]
