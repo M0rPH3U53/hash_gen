@@ -1,4 +1,4 @@
-# Generateur de HASH
+# 🔒 Generateur de HASH
 
 Hash supporter
 
